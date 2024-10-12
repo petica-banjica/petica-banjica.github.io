@@ -17,7 +17,7 @@ body, html {
             margin: 0 auto;
             display: flex;
             flex-direction: column;
-            /* padding: 1rem 2rem; */
+            padding: 1rem 2rem;
             box-sizing: border-box;
         }
         .menu-header {
